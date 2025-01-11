@@ -64,18 +64,4 @@ Hello! I’m Abhiram, an 18-year-old self-taught full-stack developer with a str
 </div>
 
 
-### 🔭 My Current Focus
-- Building strong foundation in frontend and backend technologies.
-- Exploring React JS.
-- Exploring Programing With projects.
-- Improving my JavaScript skills by tackling LeetCode challenges.
 
----
-
-
-### ⚡ Fun Facts
-- I love solving coding challenges.
-- I’m a huge fan of open-source collaboration!
-
----
-Feel free to check out my repositories and leave a ⭐ if you like what you see! 😊
