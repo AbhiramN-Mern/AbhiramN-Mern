@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<p align="center">
-  <a href="https://github.com/AbhiramN-Mern">
+<a href="https://github.com/AbhiramN-Mern">
     <h1>I'm Abhiram N  👨🏻‍💻 </h1>
    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=32&duration=3000&color=FFD700&vCenter=true&width=550&height=100&lines=Welcome+to+my+GitHub+Profile!;I+am+a+MERN+Stack+Developer;I+am+a+Frontend+Developer;I+am+a+Backend+Developer;I+am+a+Fullstack+Developer" alt="Typing SVG" />
   </a>
