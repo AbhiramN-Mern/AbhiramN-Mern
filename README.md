@@ -1,6 +1,4 @@
-
-- I’m Abhiram,
+- I’m Abhiram, the one you're looking for :)
 - I’m interested in building and scaling applications.
-
-
-
+- Full-Stack Developer | MERN Stack Enthusiast
+- JavaScript, Node.js, Express.js, MongoDB
